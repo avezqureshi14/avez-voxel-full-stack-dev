@@ -14,6 +14,7 @@ import { NavLink } from "react-router-dom";
 const Search = ({ isLoading, setIsLoading }) => {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedIndustry, setSelectedIndustry] = useState("");
+  console.log(selectedIndustry);
   const dispatch = useDispatch();
   //this are the industryInterval of startup which are provided in a list in filter
   const industries = useSelector((state) => state.startups.industries);
@@ -113,8 +114,8 @@ const Search = ({ isLoading, setIsLoading }) => {
           >
             <option value="">Filter by Industry</option>
             {industries?.map((industry, index) => (
-              <option key={index} value={industry.IndustryVertical}>
-                {industry.IndustryVertical}
+              <option key={index} value={industry}>
+                {industry}
               </option>
             ))}
           </select>
