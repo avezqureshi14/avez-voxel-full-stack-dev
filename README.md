@@ -11,6 +11,15 @@ Welcome to the Startup Directory Web App, a project completed as part of the Ful
 - **Frontend:** [View the deployed Frontend](https://avez-voxel-fullstack.netlify.app/)
 - **Backend/Server:** [Explore the deployed Server](https://avez-voxel.onrender.com/)
 
+![s1](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/4e578790-bbb4-427d-9c18-be4e1f0999eb)
+
+![s2](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/c3536641-ebae-48ab-892f-d4a2b64fa90f)
+
+![s3](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/6be6e8fc-09ad-4210-ace0-70847f8b5687)
+
+![s4](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/587b3fb3-8150-4ba1-b4f7-62fab589a58a)
+
+
 ## Features
 - **Frontend Development:**
   - Grid-based UI showcasing startup information.
