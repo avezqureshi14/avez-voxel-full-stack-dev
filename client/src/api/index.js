@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "http://localhost:8800" });
+const API = axios.create({ baseURL: "https://avez-voxel.onrender.com" });
 
 //api call for add startup endpoint
 export const createStartUp = (newStartup) => API.post("/startups/new",newStartup);
