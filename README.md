@@ -1,7 +1,3 @@
-Absolutely, congratulations on completing the assignment! Here's a `README.md` template for your Startup Directory Web App:
-
----
-
 # Startup Directory Web App
 
 ## Overview
