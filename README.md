@@ -18,11 +18,11 @@ Welcome to the Startup Directory Web App, a project completed as part of the Ful
 
 ## Features
 - **Frontend Development:**
-  - Grid-based UI showcasing startup information.
-  - Detailed view popups for comprehensive startup data.
-  - Filtering startups based on Industry Type/Domain attribute.
-  - User-friendly form for submitting new startup details.
-  - Robust data validation and error handling for submissions.
+  - ✅ Grid-based UI showcasing startup information.
+  - ✅ Detailed view popups for comprehensive startup data.
+  - ✅ Filtering startups based on Industry Type/Domain attribute, Pagination and Advance Search.
+  - ✅ User-friendly form for submitting new startup details along with Update and Delete functionality.
+  - ✅ Robust data validation and error handling for submissions.
 - **Backend Development:**
   - Storage of startup details.
   - APIs providing data to the frontend.
