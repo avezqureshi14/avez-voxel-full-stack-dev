@@ -35,12 +35,27 @@ To explore the Startup Directory Web App:
 2. Interact with the intuitive UI to explore startups, view details, and use filtering options.
 3. Submit new startup details using the provided form.
 
+## Project Structure
+
+- `/server`: Contains backend code for payment processing and database management.
+  
+- `/client`: Holds the frontend code for user interface development.
+
+## Setup Instructions
+
+1. Clone this repository.
+2. Set up the backend by navigating to the `/server` directory and following the README instructions there.
+3. Set up the frontend by going to the `/client` directory and following the README instructions there.
+
+## Usage
+
+- Start the backend server first and then launch the frontend interface to interact with the Web Application.
+
 ## Contact Information
 For any queries or information:
 - **Gmail:** avezqureshi4785@gmail.com
 - **Linkedin:** [@avezqureshi14](https://www.linkedin.com/in/avezqureshi14/)
 
-Thank you for the opportunity to work on this assignment! Feel free to explore the deployed app and reach out for any further details.
+## Contributors
 
-Best Regards,  
-Mohammad Avez
+- [Mohammad Avez](https://github.com/avezqureshi14): 
