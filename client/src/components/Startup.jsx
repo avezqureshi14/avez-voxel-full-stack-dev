@@ -131,7 +131,7 @@ const Startup = ({ startup }) => {
         <>
           <div className="fixed inset-0 z-40 bg-gray-800 bg-opacity-50"></div>
           <div className="fixed  inset-0 flex items-center justify-center z-50">
-            <div className="absolute bg-customColor text-white m-2 shadow-lg rounded-lg p-8 popup-content  bg-gray-800 bg-opacity-75">
+            <div className="absolute bg-customColor text-white m-2 shadow-lg rounded-lg p-8 popup-content  bg-gray-800">
               <button
                 onClick={handleClosePopup}
                 className="absolute top-2 right-2 text-gray-500 hover:text-gray-700"
